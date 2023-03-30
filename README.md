@@ -1,11 +1,11 @@
 <h1 align="center">🌍 Hi Guyes ...</h1>
 <h3 align="center">My name is Mohammad ✋🏻, Im a Backend Developer 🖥</h3>
 
-- 🔭 I’m currently working on **Jatick**
+<!-- - 🔭 I’m currently working on **Jatick**
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **PHP ,Laravel , Mysql**
+- 💬 Ask me about **PHP ,Laravel , Mysql** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
